@@ -1,4 +1,3 @@
- # webrick.rb
 require 'webrick'
 
 server = WEBrick::HTTPServer.new({ 
